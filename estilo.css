@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background: black;
+}
+
+.destaque{
+    background: green;
+}
+
+img {
+    max-width: 90%;
+    
+}
